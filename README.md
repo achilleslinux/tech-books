@@ -24,6 +24,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Disclaimer
 
 All the ebooks must be used solely by an individuals.
-It is not for any **Commercial Purpose**
+It is not for any **Commercial Purpose**.
 All the copyrights and trademarks are reserved by their **Publishers & Authors**.
 
