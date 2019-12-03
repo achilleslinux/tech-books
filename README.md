@@ -7,7 +7,7 @@ This repository is for bookworms
 You need to have
 
 ```
-pdf reader software
+PDF reader software
 ```
 
 
@@ -15,16 +15,15 @@ pdf reader software
 
 * **Avinash Kumar** - *Initial work* - [Github Link](https://github.com/achilleslinux)
 
-See also the list of [contributors](https://github.com/your/project/contributors).
+See also the list of [contributors](https://github.com/achilleslinux/tech-books/graphs/contributors).
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Disclaimer
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+All the ebooks must be used solely by an individuals.
+It is not for any commercial pupose
+All the copyrights and trademarks are reserved by their Publishers & Authors.
 
